@@ -22,8 +22,11 @@
 	font-weight: bold;
 }
 
-ul
-{
+.italic {
+	font-style:italic;
+}
+
+ul {
 	list-style-type: none;
 	background: #929cb8;
 	border-radius: 10px;
@@ -31,6 +34,4 @@ ul
 	border-style: solid;
 }
 
-.italic {
-	font-style:italic;
-}
+
