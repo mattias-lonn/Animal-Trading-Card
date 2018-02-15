@@ -1,0 +1,32 @@
+
+.animalCard {
+  background: linear-gradient(#8395cb, #757d92, #5f78c1);
+  font-family: "Helvetica", Arial, sans-serif;
+  margin: auto;
+  width: 340px;
+  text-align: center;
+  color: #fcfcfc;
+  padding: 10px 10px;
+	border-radius: 25px;
+	border: 5px  #212a43;
+	border-style: dotted;
+}
+
+.animalImg {
+	border-radius: 25px;
+	border: 2px  #dddddd;
+	border-style: solid;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+ul
+{
+	list-style-type: none;
+	background: #929cb8;
+	border-radius: 10px;
+	border: 2px  #a1abc9;
+	border-style: solid;
+}
