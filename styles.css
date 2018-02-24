@@ -1,37 +1,30 @@
-
 .animal-card {
-  background: linear-gradient(#8395cb, #757d92, #5f78c1);
-  font-family: "Helvetica", Arial, sans-serif;
-  margin: auto;
-  width: 340px;
-  text-align: center;
-  color: #fcfcfc;
-  padding: 10px 10px;
-	border-radius: 25px;
-	border: 5px solid #224;
-	border-style: dotted;
+     background: linear-gradient(#89C, #779, #67B);
+     font-family: "Helvetica", Arial, sans-serif;
+     margin: auto;
+     width: 340px;
+     text-align: center;
+     color: #FFF;
+     padding: 10px 10px;
+     border-radius: 25px;
+     border: 5px solid #224;
+     border-style: dotted;
 }
-
-.animal-img {
-	border-radius: 25px;
-	border: 2px solid #ddd;
-	border-style: solid;
+ .animal-img {
+     border-radius: 25px;
+     border: 2px solid #ddd;
+     border-style: solid;
 }
-
-.bold {
-	font-weight: bold;
+ .bold {
+     font-weight: bold;
 }
-
-.italic {
-	font-style:italic;
+ .italic {
+     font-style:italic;
 }
-
-ul {
-	list-style-type: none;
-	background: #929cb8;
-	border-radius: 10px;
-	border: 2px  #a1abc9;
-	border-style: solid;
+ ul {
+     list-style-type: none;
+     background: #99B;
+     border-radius: 10px;
+     border: 2px #9AC;
+     border-style: solid;
 }
-
-
